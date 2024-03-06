@@ -5,6 +5,7 @@ class Calculator {
 		
 		Console.WriteLine("Hasil penjumlahan angka {0} dan {1} adalah {2}", a, b, sum(a, b));
 		Console.WriteLine("Hasil pengurangan angka {0} dan {1} adalah {2}", a, b, min(a, b));
+		Console.WriteLine("Hello World");
 	}
 	
 	static int sum(int a, int b) {
